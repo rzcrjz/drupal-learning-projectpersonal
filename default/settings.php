@@ -216,8 +216,8 @@ $databases = array (
     'default' => 
     array (
       'database' => 'acquia_drupal',
-      'username' => 'drupaluser',
-      'password' => 'pamela10',
+      'username' => 'root',
+      'password' => '',
       'host' => '127.0.0.1',
       'port' => '33066',
       'driver' => 'mysql',
